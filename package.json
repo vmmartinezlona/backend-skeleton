@@ -4,6 +4,7 @@
   "description": "Skeleton for express and nodejs backend app",
   "main": "src/index.ts",
   "scripts": {
+    "start": "nodemon src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

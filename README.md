@@ -1,4 +1,5 @@
-# Triples graphs proposal API
+# Backend Skeleton API
+This backend skeleton works with Tediousjs, but can be adjust to any database manager package
 
 ## How to run for first time
 
